@@ -1,0 +1,13 @@
+C:\Users\Loza\source\repos\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+C:\Users\Loza\source\repos\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+C:\Users\Loza\source\repos\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+C:\Users\Loza\source\repos\Web Browser\Web Browser\bin\Debug\Web Browser.xml
+C:\Users\Loza\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.AssemblyReference.cache
+C:\Users\Loza\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Loza\source\repos\Web Browser\Web Browser\obj\Debug\Web_Browser.Form1.resources
+C:\Users\Loza\source\repos\Web Browser\Web Browser\obj\Debug\Web_Browser.Resources.resources
+C:\Users\Loza\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.GenerateResource.cache
+C:\Users\Loza\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.vbproj.CoreCompileInputs.cache
+C:\Users\Loza\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+C:\Users\Loza\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.xml
+C:\Users\Loza\source\repos\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
